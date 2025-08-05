@@ -25,12 +25,6 @@ A responsive YouTube clone built using **React**, showcasing video listing, sear
 
 ---
 
-## 🖼️ Screenshots
-
-> Add screenshots or screen recordings here to show how the clone works
-
----
-
 ## 🔧 Setup Instructions
 
 1. **Clone the Repository:**
